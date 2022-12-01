@@ -1,0 +1,16 @@
+{
+    "name": "lincon/sql",
+    "description": "lidando com sql",
+    "autoload": {
+        "psr-4": {
+            "Lincon\\Sql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CarlosLincon",
+            "email": "carloslincon29@gmail.com"
+        }
+    ],
+    "require": {}
+}
